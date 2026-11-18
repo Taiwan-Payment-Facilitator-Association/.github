@@ -4,7 +4,7 @@
 
 **Taiwan Payment Facilitator Association（TPFA）**
 
-[公會網站](https://www.tpfa.org.tw) · [聯絡秘書處](mailto:secretary@tpfa.org.tw)
+[公會網站](https://www.tpfa.org.tw) · [聯絡秘書處](mailto:info@tpfa.org.tw)
 
 </div>
 
@@ -57,7 +57,7 @@
 
 ## 回報問題
 
-- **一般問題、文件錯誤或建議**：請寄信至秘書處 [secretary@tpfa.org.tw](mailto:secretary@tpfa.org.tw)，信件主旨請註明「API 串接」及貴公司名稱。
+- **一般問題、文件錯誤或建議**：請寄信至秘書處 [info@tpfa.org.tw](mailto:info@tpfa.org.tw)，信件主旨請註明「API 串接」及貴公司名稱。
 - **資安問題**：若您發現可能的安全漏洞，**請勿公開張貼**，請直接寄信至秘書處，信件主旨請註明「資安通報」。我們會儘速與您聯繫。
 
 ---
@@ -73,6 +73,6 @@ Documentation is **available to invited member technical contacts only**.
 To request access, please ask your company's member representative to apply through the TPFA member portal.
 Two-factor authentication is required for all members and collaborators.
 
-Website: [www.tpfa.org.tw](https://www.tpfa.org.tw) · Contact: [secretary@tpfa.org.tw](mailto:secretary@tpfa.org.tw)
+Website: [www.tpfa.org.tw](https://www.tpfa.org.tw) · Contact: [info@tpfa.org.tw](mailto:info@tpfa.org.tw)
 
 </div>
